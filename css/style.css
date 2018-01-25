@@ -21,3 +21,14 @@ h1 {
     justify-content: flex-start;
 
 }
+
+.flex-item {
+  font-size:1.3em;
+  border-radius:4px;
+  padding:15px 30px;
+  margin:4px;
+  background:#ccc;
+    -moz-flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    flex: 1 0 auto;
+}
